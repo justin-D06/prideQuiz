@@ -1,0 +1,3 @@
+# Politique de confidentialité
+
+L'application **prideQuiz** est conçue pour respecter strictement votre vie privée. Aucune donnée personnelle (nom, adresse e-mail, identifiant publicitaire ou géolocalisation) n'est collectée, stockée, suivie ni transmise à des tiers. Les connexions réseau établies par l'application servent exclusivement au téléchargement technique des données de jeu depuis nos serveurs ; les adresses IP nécessaires à cette communication ne sont ni enregistrées, ni conservées, ni croisées avec d'autres informations. Pour toute question, vous pouvez nous contacter à : **pestainc@gmail.com.
